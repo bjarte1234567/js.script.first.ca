@@ -1,6 +1,6 @@
 const opelAstra = {
      brand: "Opel",
-     speed: 0,
+     speed: 120,
      revs: 0,
      milage: 176455,
      displacement: 1799,
